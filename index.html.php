@@ -15,7 +15,6 @@
 <link rel="author" href="http://alexanderchristiaanjacob.com/" title="Alexander Christiaan Jacob">
 <link rel="apple-touch-icon-precomposed" href="apple-touch-icon-precomposed.png">
 <link rel="canonical" href="http://victoryboogiewoogie.com/">
-<link rel="fluid-icon" href="http://victoryboogiewoogie.com/fluid-icon.png">
 <style>
 *{border:0;border-radius:none;list-style:none;margin:0;outline:0;padding:0;text-decoration:none}
 
@@ -76,8 +75,7 @@ html{background:#000}
 </head>
 <body>
 <p>Klik op het canvas voor een nieuwe compositie&hellip;</p>
-<main>
-<figure><img alt="" id="victory" src="index.svg.php"></figure></main>
+<main><figure><img alt="" id="victory" src="index.svg.php"></figure></main>
 <script>
 
 var v = document.getElementById('victory');
