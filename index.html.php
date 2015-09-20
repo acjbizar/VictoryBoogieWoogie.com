@@ -1,19 +1,20 @@
 <!DOCTYPE html>
-<html dir="ltr" lang="en">
+<html dir="ltr" itemscope itemtype="http://schema.org/VisualArtwork" lang="en">
 <head>
 <meta charset="utf-8">
-<meta property="fb:admins" content="509248955">
 <meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <meta name="apple-mobile-web-app-title" content="Boogie Woogie">
 <meta name="description" property="og:description" content="Victory Boogie Woogie .com by Alexander Christiaan Jacob, 2013. Audience Award winner of the Elegant Algorithms contest by SETUP.">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta property="fb:admins" content="509248955">
 <meta property="og:image" content="http://victoryboogiewoogie.com/apple-touch-icon-precomposed.png">
 <meta property="og:title" content="Victory Boogie Woogie .com">
 <meta property="og:type" content="website">
 <meta property="og:url" content="http://victoryboogiewoogie.com/">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Victory Boogie Woogie .com</title>
-<link rel="author" href="http://alexanderchristiaanjacob.com/" title="Alexander Christiaan Jacob">
+<title itemprop="name">Victory Boogie Woogie .com</title>
 <link rel="apple-touch-icon-precomposed" href="apple-touch-icon-precomposed.png">
+<link rel="author" href="http://alexanderchristiaanjacob.com/" title="Alexander Christiaan Jacob">
 <link rel="canonical" href="http://victoryboogiewoogie.com/">
 <style>
 *{border:0;border-radius:none;list-style:none;margin:0;outline:0;padding:0;text-decoration:none}
@@ -55,6 +56,10 @@ html{
 @media(max-width:40em){
 img{height:256px}
 main{box-shadow:inset 1px 1px 6px rgba(0,0,0,.5),6px 6px 12px -1px rgba(0,0,0,.5),-6px -6px 24px -1px rgba(255,255,255,1);border-width:6px;padding:32px;width:256px}
+}
+
+@media print{
+html{background:#fff}
 }
 
 @media projection{
