@@ -1,0 +1,17 @@
+{
+    "manifest_version": 2,
+    "version": "20190721",
+    "name": "Victory Boogie Woogie .com",
+    "default_locale": "en",
+    "description": "Victory Boogie Woogie .com by Alexander Christiaan Jacob, 2013. Audience Award winner of the Elegant Algorithms contest by SETUP.",
+    "author": "Alexander Christiaan Jacob",
+    "theme_color": "white",
+    "homepage_url": "https://victoryboogiewoogie.com/",
+    "start_url": "https://victoryboogiewoogie.com/",
+    "icons": [
+        {
+            "src": "https://victoryboogiewoogie.com/apple-touch-icon-precomposed.png"
+        }
+    ],
+    "display": "fullscreen"
+}
