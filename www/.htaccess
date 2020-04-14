@@ -1,0 +1,5 @@
+
+
+Options -Indexes +MultiViews
+
+DirectoryIndex index.html index.svg index.php
