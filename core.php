@@ -285,7 +285,7 @@ abstract class aThing
 class Rect extends aThing
 {
     // ACJ 24-1-2013
-    // Make sure the object is converted to a string in XML format when echood.
+    // Make sure the object is converted to a string in XML format when echoed.
     public function __toString()
     {
         $r = '<rect';
@@ -308,7 +308,7 @@ class ScalableVectorGraphic extends aThing
     public $version = '1.1';
 
     // ACJ 2-3-2013
-    // Make sure the object is converted to a string in XML format when echood.
+    // Make sure the object is converted to a string in XML format when echoed.
     public function __toString()
     {
         $r = '<?xml version="1.0" standalone="no"?>';
