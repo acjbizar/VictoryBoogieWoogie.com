@@ -11,4 +11,4 @@ $svg->content = draw_victory();
 
 // Make it happen.
 $svg->parse();
-$svg->save();
+//$svg->save();
