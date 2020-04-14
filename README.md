@@ -2,6 +2,8 @@
 
 Interactive website + domain name, 2013. Homage to Piet Mondriaan (obviously). Click for a new composition. Winner audience award Elegante Algoritmes by SETUP.
 
+![Screenshot.](https://netplasticism.com/images/screenshot-1024x768-204.jpg)
+
 ## Inquiries
 
 - [Mimesia Gallery](https://mimesia.gallery/artworks/17)
